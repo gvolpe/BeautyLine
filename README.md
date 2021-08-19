@@ -8,7 +8,7 @@ You should be able to find this soon on Nixpkgs unstable under the attribute nam
 
 ### Troubleshooting
 
-In most versions, there is a badly renamed file that causes the following error.
+In most versions, there is a badly named file that causes the following error.
 
 ```shell
 gtk-update-icon-cache: The generated cache was invalid.
